@@ -1,0 +1,10 @@
+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
+
+
+Git remote set-url origin https://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@github.com/gfb5211314/shiyinqi.git
+Git remote add origin https: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/gfb5211314/shiyinqi.git
+git clone 
+git add .
+git commit 
+git remote set-url origin https://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@github.com/gfb5211314/shiyinqi.git
+git push
